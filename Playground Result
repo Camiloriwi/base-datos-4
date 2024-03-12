@@ -1,0 +1,58 @@
+[
+  {
+    "_id": {
+      "$oid": "65e5da8db64cf7a34cabb512"
+    },
+    "nombre": "camilo",
+    "apellido": "valdez"
+  },
+  {
+    "_id": {
+      "$oid": "65e5da8db64cf7a34cabb513"
+    },
+    "nombre": "cristian",
+    "apellido": "valdez"
+  },
+  {
+    "_id": {
+      "$oid": "65e5da8db64cf7a34cabb514"
+    },
+    "nombre": "miguel",
+    "apellido": "valdez"
+  },
+  {
+    "_id": {
+      "$oid": "65e5dc8d7b3cfb69608466c9"
+    },
+    "nombre": "juan",
+    "apellido": "valdez"
+  },
+  {
+    "_id": {
+      "$oid": "65e5dc8d7b3cfb69608466ca"
+    },
+    "nombre": "robinson",
+    "apellido": "valdez"
+  },
+  {
+    "_id": {
+      "$oid": "65e5dc8d7b3cfb69608466cb"
+    },
+    "nombre": "estela",
+    "apellido": "valdez"
+  },
+  {
+    "_id": {
+      "$oid": "65e5dc8d7b3cfb69608466cc"
+    },
+    "nombre": "julian",
+    "apellido": "valdez"
+  },
+  {
+    "_id": {
+      "$oid": "65e5dc8d7b3cfb69608466cd"
+    },
+    "nombre": "samuel",
+    "apellido": "valdez"
+  }
+]
